@@ -28,6 +28,6 @@ To view the Amazon home page clone, simply open the `index.html` file in a web b
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/amazon-home-page-clone.git
+git clone https://github.com/anand23124/amazon-home-page-clone.git
 cd amazon-home-page-clone
 
